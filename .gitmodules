@@ -1,0 +1,6 @@
+[submodule "third_party/jpt-amz"]
+	path = third_party/jpt-amz
+	url = https://github.com/heldstephan/jpt-amz.git
+[submodule "third_party/rc-cli"]
+	path = third_party/rc-cli
+	url = https://github.com/MIT-CAVE/rc-cli.git

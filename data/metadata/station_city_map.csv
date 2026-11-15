@@ -1,0 +1,19 @@
+station_code,station_city,state,metropolitan_group,source_url,confidence
+DAU1,Austin,TX,Austin,https://www.osha.gov/ords/imis/establishment.inspection_detail?id=1721665.015,high
+DBO1,Everett,MA,Boston,https://masshiredowntownboston.org/wp-content/uploads/Amazon-Quick-Fact-Sheet-2-1-2021-BOSTONNOW41.pdf,medium
+DBO2,Dedham,MA,Boston,https://masshiredowntownboston.org/wp-content/uploads/Amazon-Quick-Fact-Sheet-2-1-2021-BOSTONNOW41.pdf,medium
+DBO3,Milford,MA,Boston,https://en.wizbii.com/company/amazon/job/delivery-station-liaison-dbo3,medium
+DBO6,Nashua,NH,Boston,https://masshiredowntownboston.org/wp-content/uploads/Amazon-Quick-Fact-Sheet-2-1-2021-BOSTONNOW41.pdf,medium
+DCH1,Chicago,IL,Chicago,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DCH2,Morton Grove,IL,Chicago,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DCH3,Lisle,IL,Chicago,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DCH4,Mundelein,IL,Chicago,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DLA3,Commerce,CA,Los Angeles,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DLA4,Chatsworth,CA,Los Angeles,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DLA5,Riverside,CA,Los Angeles,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DLA7,Chino,CA,Los Angeles,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DLA8,Hawthorne,CA,Los Angeles,https://www.osha.gov/sites/default/files/2024-12/12202024-OSHA-Amazon-Ergo-Agreement-Fully-Executed-Public-Facing-Addresses-Redacted.pdf,high
+DLA9,Irvine,CA,Los Angeles,https://www.zbaologistics.com/uploads-zb/2505/download-amazon-us-distribution-center-warehouse.pdf,medium
+DSE2,Seattle,WA,Seattle,https://www.ftc.gov/system/files/ftc_gov/pdf/DV171.pdf,medium
+DSE4,Everett,WA,Seattle,https://www.ftc.gov/system/files/ftc_gov/pdf/DV171.pdf,medium
+DSE5,Renton,WA,Seattle,https://apps.ecology.wa.gov/paris/FacilityDetails.aspx?FacilityId=12175,high

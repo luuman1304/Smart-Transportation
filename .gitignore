@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.venv-*/
+*.egg-info/
+build/
+dist/
+
+# Downloaded datasets and generated experiment artifacts
+data/raw/
+data/interim/
+data/processed/
+outputs/
+reports/
+paper/
+
+# Local binaries produced when compiling JPT/LKH
+third_party/jpt-amz/LKH-AMZ/LKH
+third_party/jpt-amz/LKH-AMZ/get_Length
+third_party/jpt-amz/LKH-AMZ/merge
+third_party/jpt-amz/LKH-AMZ/score
+third_party/jpt-amz/LKH-AMZ/solve
+third_party/jpt-amz/LKH-AMZ/solve_and_merge
+third_party/jpt-amz/LKH-AMZ/SRC/OBJ/
+third_party/jpt-amz/LKH-AMZ/JPT/*.o
+
+.DS_Store
+~$*
